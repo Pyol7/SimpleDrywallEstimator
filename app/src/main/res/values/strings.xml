@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Drywall Estimator</string>
+    <!-- menu_main.xml-->
+    <string name="action_settings">Settings</string>
+    <string name="edit_material_lists">Edit Material Lists</string>
+
+    <string name="existing_projects">Existing Projects</string>
+    <string name="ceiling_material_list">Ceiling Material List</string>
+</resources>
